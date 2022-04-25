@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: Yandex
+Clean-param: bonus&utm_source&utm_medium&utm_campaign&utm_term&utm_content&click_id *
+
+Host: https://xn----7sbbhwnv3h.xn--p1ai/
+Sitemap: https://xn----7sbbhwnv3h.xn--p1ai//sitemap.xml
